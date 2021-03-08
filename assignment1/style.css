@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+}
+header{
+        display: flex;
+        justify-content: space-between;
+        background-color: blue;
+        align-items: center;
+        height: 100px;
+}
+
+
+.cont{
+    list-style: none;
+    display: flex;
+    
+}
+
+img{
+    flex: 0.3;
+}
+div{
+    height: 300px;
+    background-color: burlywood;
+}
+.foot{
+    display: flex;
+}
+p{
+    flex: 0.7;
+}
+p br{
+    margin-top: 30px;
+}
+p button{
+    border-radius: 20px;
+    margin-top: 50px;
+}
+
+ul li{
+    margin-left: 20px;
+    
+}
+
+ul li button{
+    border-radius: 20px;
+}
